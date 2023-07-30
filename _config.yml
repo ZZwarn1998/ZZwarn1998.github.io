@@ -1,7 +1,7 @@
 # Site settings
 title:          RyuZ
 description:    "Personl static website"
-baseurl:        "/ryuz"
+baseurl:        ""
 url:            "https://zzwarn1998.github.io"
 
 # Google Analytics
