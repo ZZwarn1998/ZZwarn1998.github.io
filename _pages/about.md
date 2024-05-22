@@ -5,7 +5,7 @@ author: "Zhicheng"
 permalink: /about/
 ---
 
-<div class="textbox border-medium dashed-border" style="float: left; width: 70%; height: 320px">
+<div class="textbox border-medium dashed-border" style="float: left; width: 70%;">
     <p>> Hi, there!&#x1F44B;</p>
     <p>> My name is Zhicheng Zhang &#40;nickname: Orange Altas&#x1F34A;&#41;. I obtained my Bachelor of Engineering in Electronic Information Science and Technology from the School of Computer Science and Technology at China University of Mining and Technology. Recently, I was thrilled to be admitted to the University of Utah and will pursue my Master of Science in Computer Science at the Kahlert School of Computing.</p> 
     <p>> I am especially passionate about topics including Computer Systems, Software Engineering, and Computer Graphics. Meanwhile, I am also an enthusiast of everything related to art, like painting, photography, artifacts, J-pop, and bodybuilding. Please feel free to contact me if you are interested in communicating with me.</p>
