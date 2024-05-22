@@ -1,0 +1,45 @@
+$textbox-padding: 10px;
+$textbox-margin: 20px 0;
+$textbox-border-radius: 5px;
+$textbox-bg-color: #dbd9d9;
+$textbox-font-family: Consolas;
+$textbox-font-size: 14px;
+$textbox-font-color: #333;
+
+.textbox {
+  padding: $textbox-padding;
+  margin: $textbox-margin;
+  border-radius: $textbox-border-radius;
+  background-color: $textbox-bg-color;
+  font-family: $textbox-font-family;
+  font-size: $textbox-font-size;
+  color: $textbox-font-color;
+  
+  &.border-thin {
+    border: 1px solid $textbox-font-color;
+  }
+  
+  &.border-medium {
+    border: 3px solid $textbox-font-color;
+  }
+  
+  &.border-thick {
+    border: 5px solid $textbox-font-color;
+  }
+
+  &.solid-border {
+    border-style: solid;
+  }
+
+  &.dashed-border {
+    border-style: dashed;
+  }
+
+  &.dotted-border {
+    border-style: dotted;
+  }
+
+  &.double-border {
+    border-style: double;
+  }
+}
