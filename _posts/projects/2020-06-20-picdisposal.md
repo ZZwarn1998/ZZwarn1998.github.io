@@ -5,6 +5,7 @@ author: Zhicheng Zhang
 date: 2020-06-20 14:23:54 +0800
 tags: [Project]
 excerpt_separator: <!--excerpt-->
+comments: true
 sticky: false
 ---
 This is an android application created for processing image. In this application, you can achieve various image processing such as **Convex**, **Concave**, **Nostalgia** and **Cartoon** within a short time period.<!--excerpt--> If you want to use the Android application, you should download and set up [./PicDisposal_py](https://github.com/ZZwarn1998/PicDisposal/tree/master/PicDisposal) and [./ImageDisposal](https://github.com/ZZwarn1998/PicDisposal/tree/master/ImageDisposal) additionally.  For more information, please visit [the repository](https://github.com/ZZwarn1998/PicDisposal).
