@@ -18,7 +18,7 @@
 
   &-clouds {
     text-align: center;
-    font-family: $sans-serif;
+    font-family: $monospaced;
 
     a {
       display: inline-block;
@@ -54,7 +54,7 @@
       padding-left: 0.2rem; 
       padding-right: 0.2rem;
       color: $default-tint;
-      font-family: $serif-secondary;
+      font-family: $monospaced;
       letter-spacing: .5px;
       border-radius: 5px;
     }
@@ -68,9 +68,11 @@
     &-title {
       color: $default-color;
       text-decoration: none;
-      white-space: nowrap;
+      // white-space: nowrap;
+      white-space: normal;
       overflow: hidden;
       text-overflow: ellipsis;
+      font-family: $monospaced;
     }
 
     &-line {
@@ -84,6 +86,7 @@
       color: $default-tint;
       text-align: right;
       white-space: nowrap;
+      font-family: $monospaced;
     }
 
     &:hover,

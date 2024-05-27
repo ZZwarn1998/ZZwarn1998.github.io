@@ -16,7 +16,7 @@ permalink: /about/
         <div class="image-container">
             <picture>
                 <source srcset="{{"assets/img/about/selfie-mobile.jpg" | relative_url}}"  media="(max-width: 768px)">
-                <img src="{{"assets/img/about/selfie-desktop.jpg" | relative_url}}" alt="selfie-desktop.jpg" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
+                <img src="{{"assets/img/about/selfie-desktop.jpg" | relative_url}}" alt="selfie.jpg" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
             </picture>
             <figcaption>
                 <p>Photographer: Xiangfei Sheng, October 2021, Guangzhou &copy; 2021 Xiangfei Sheng </p>

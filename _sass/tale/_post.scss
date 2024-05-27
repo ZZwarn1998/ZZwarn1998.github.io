@@ -1,9 +1,10 @@
 .post {
   padding: 3rem 0;
+  font-family: $monospaced;
 
   &-info {
     color: $default-tint;
-    font-family: $serif-secondary;
+    // font-family: $monospaced;
     letter-spacing: 0.5px;
     text-align: center;
 
@@ -28,11 +29,16 @@
   }
 
   p {
+    // font-family: $monospaced;
     margin: 0 0 1rem;
     text-align: justify;
     img {
       margin: 0 auto 0.5rem;
     }
+  }
+
+  h2 h3 h4 h5 h6 {
+    font-family: $sans-serif;
   }
 
   table {
@@ -45,11 +51,12 @@
       border: 0.1rem solid black;
       background-color: gray;
       color: white;
-      font-family: $sans-serif;
+      // font-family: $monospaced;
     }
     tr td {
       padding: 0.2rem 0.5rem 0.2rem 0.5rem;
       border: 0.1rem solid black;
+      // font-family: $monospaced;
     }
   }
 
@@ -64,7 +71,7 @@
   img + em {
     color: $default-tint;
     display: block;
-    font-family: $sans-serif;
+    // font-family: $sans-serif;
     font-size: 0.9rem;
     font-style: normal;
     text-align: center;

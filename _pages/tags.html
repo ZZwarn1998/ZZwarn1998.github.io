@@ -38,7 +38,16 @@ permalink: /tags/
     {% for post in tag[1] %}
     <a class="tags-post" href="{{ post.url | prepend: site.baseurl }}">
       <div>
-        <span class="tags-post-title">{{ post.title }}</span>
+        <span class="tags-post-title">{{ post.title }}
+          <!-- {% assign maxLength = 35 %}
+          {% assign myString = post.title %}
+          {% if post.title.size > maxLength %}
+          {% assign truncatedString = myString | slice: 0, maxLength %}
+          {{ truncatedString }}...
+          {% else %}
+          {{ myString }}
+          {% endif %} -->
+        </span>
         <div class="tags-post-line"></div>
       </div>
       <span class="tags-post-meta">

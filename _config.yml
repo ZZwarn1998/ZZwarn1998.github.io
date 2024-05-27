@@ -1,6 +1,6 @@
 # Site settings
-title:          RyuZ
-description:    "Personl static website"
+title:          RZarch
+description:    "Zhicheng Zhang's Personl Static Website"
 baseurl:        ""
 url:            "https://zzwarn1998.github.io"
 
@@ -32,7 +32,7 @@ plugins:
 
 # Permalinks
 permalink:      /:year-:month-:day/:title
-paginate: 5
+paginate: 8
 paginate_path: "page:num/"
 
 # Excludes

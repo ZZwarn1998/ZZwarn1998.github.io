@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Generation Method of Class Integration Test Order Based on
-DRL"
+Deep Reinforcement Learning"
 author: Yinghui Zhang, Yanmei Zhang, Zhicheng Zhang, Shujuan Jiang, Yanru Ding, Guan Yuan
 date: 2023-04-14 00:00:00 +0800
 tags: [Research]
